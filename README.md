@@ -1,6 +1,8 @@
 # Githubsearch
 
-You can check out the production build on github-pages here: [https://andrasivacson.github.io/githubsearch/dist/index.html](https://andrasivacson.github.io/githubsearch/dist/index.html).
+You can see the production build in action on github-pages here: [https://andrasivacson.github.io/githubsearch/dist/index.html](https://andrasivacson.github.io/githubsearch/dist/index.html).
+
+`npm build` has been configured to support deployment to github pages (service worker support included).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
