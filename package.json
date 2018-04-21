@@ -1,0 +1,24 @@
+{
+  "name": "githubsearch",
+  "version": "1.0.0",
+  "description": "Angular 5 demonstartion tool for queriing gihub apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrasivacson/githubsearch.git"
+  },
+  "keywords": [
+    "angular5",
+    "pwa",
+    "githubapi"
+  ],
+  "author": "András Ivácson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrasivacson/githubsearch/issues"
+  },
+  "homepage": "https://github.com/andrasivacson/githubsearch#readme"
+}
